@@ -1,0 +1,1 @@
+Package Variant,Quality ROP Gadgets,Average ROP Gadget Quality,Quality JOP Gadgets,Average JOP Gadget Quality,Quality COP Gadgets,Average COP Gadget QualityO3,263,1.55893536121673,20,1.525,32,2.90625O3-no-tail-call-elim,258 (5),1.4515503875968991 (0.1073849736198309),34 (-14),2.161764705882353 (-0.6367647058823529),29 (3),1.9827586206896552 (0.9234913793103448)

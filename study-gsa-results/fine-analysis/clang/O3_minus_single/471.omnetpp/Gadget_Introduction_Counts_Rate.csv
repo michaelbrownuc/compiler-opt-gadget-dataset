@@ -1,0 +1,1 @@
+Package Variant,Total Gadgets,Total Introduction Rate,ROP Gadgets,ROP Introduction Rate,JOP Gadgets,JOP Introduction Rate,COP Gadgets,COP Introduction RateO3,9162, ,3383, ,1959, ,3588O3-no-tail-call-elim,9154,66.9%,3458,57.8%,1623,94.3%,3951,62.8%

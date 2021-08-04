@@ -1,0 +1,1 @@
+Package Variant,Total Gadgets,Total Introduction Rate,ROP Gadgets,ROP Introduction Rate,JOP Gadgets,JOP Introduction Rate,COP Gadgets,COP Introduction RateO0,13198, ,4667, ,4201, ,3981O0-fomit-frame-pointer,12507,95.1%,5677,94.9%,2982,96.9%,3559,93.9%O0-tailcallelim,12059,70.9%,4291,43.6%,3553,96.0%,3986,76.5%

@@ -1,0 +1,1 @@
+Package Variant,Total Gadgets,Total Introduction Rate,ROP Gadgets,ROP Introduction Rate,JOP Gadgets,JOP Introduction Rate,COP Gadgets,COP Introduction RateO2,4432, ,2092, ,725, ,1530O2-aggressive-instcombine,3103,93.8%,1418,91.5%,640,94.8%,985,96.4%O2-argpromotion,3194,93.9%,1426,91.3%,660,95.0%,1054,96.7%O2-callsite-splitting,3154,93.8%,1412,91.2%,656,95.0%,1035,96.6%

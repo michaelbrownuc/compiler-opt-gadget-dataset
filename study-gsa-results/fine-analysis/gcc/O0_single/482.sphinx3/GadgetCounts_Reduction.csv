@@ -1,0 +1,1 @@
+Package Variant,Total Gadgets,ROP Gadgets,JOP Gadgets,COP Gadgets,Special Purpose GadgetsO0,1033,628,203,187,15O0_fomit_frame_pointer,999 (34; 3.3%),642 (-14; -2.2%),154 (49; 24.1%),189 (-2; -1.1%),14 (1; 6.7%)O0_fshrink_wrap,1014 (19; 1.8%),629 (-1; -0.2%),193 (10; 4.9%),178 (9; 4.8%),14 (1; 6.7%)

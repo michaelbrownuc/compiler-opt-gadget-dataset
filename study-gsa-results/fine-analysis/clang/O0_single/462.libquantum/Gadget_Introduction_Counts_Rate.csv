@@ -1,0 +1,1 @@
+Package Variant,Total Gadgets,Total Introduction Rate,ROP Gadgets,ROP Introduction Rate,JOP Gadgets,JOP Introduction Rate,COP Gadgets,COP Introduction RateO0,220, ,166, ,25, ,26O0_fomit_frame_pointer,257,89.5%,205,86.8%,23,100.0%,26,100.0%O0_tailcallelim,246,72.4%,190,64.7%,37,100.0%,15,93.3%

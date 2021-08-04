@@ -1,0 +1,1 @@
+Package Variant,Total Gadgets,ROP Gadgets,JOP Gadgets,COP Gadgets,Special Purpose GadgetsO3,9162,3383,1959,3588,232O3-no-tail-call-elim,9154 (8; 0.1%),3458 (-75; -2.2%),1623 (336; 17.2%),3951 (-363; -10.1%),122 (110; 47.4%)
